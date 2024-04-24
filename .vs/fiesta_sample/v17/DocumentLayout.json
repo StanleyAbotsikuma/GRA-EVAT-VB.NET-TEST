@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabotsikuma.PERSOL\\source\\repos\\fiesta_sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D413E21-818E-43E3-AD6C-47057CB2BA09}|fiesta_sample\\fiesta_sample.vbproj|c:\\users\\sabotsikuma.persol\\source\\repos\\fiesta_sample\\fiesta_sample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8D413E21-818E-43E3-AD6C-47057CB2BA09}|fiesta_sample\\fiesta_sample.vbproj|solutionrelative:fiesta_sample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D413E21-818E-43E3-AD6C-47057CB2BA09}|fiesta_sample\\fiesta_sample.vbproj|c:\\users\\sabotsikuma.persol\\source\\repos\\fiesta_sample\\fiesta_sample\\invoice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8D413E21-818E-43E3-AD6C-47057CB2BA09}|fiesta_sample\\fiesta_sample.vbproj|solutionrelative:fiesta_sample\\invoice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D413E21-818E-43E3-AD6C-47057CB2BA09}|fiesta_sample\\fiesta_sample.vbproj|c:\\users\\sabotsikuma.persol\\source\\repos\\fiesta_sample\\fiesta_sample\\item.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8D413E21-818E-43E3-AD6C-47057CB2BA09}|fiesta_sample\\fiesta_sample.vbproj|solutionrelative:fiesta_sample\\item.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D413E21-818E-43E3-AD6C-47057CB2BA09}|fiesta_sample\\fiesta_sample.vbproj|c:\\users\\sabotsikuma.persol\\source\\repos\\fiesta_sample\\fiesta_sample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8D413E21-818E-43E3-AD6C-47057CB2BA09}|fiesta_sample\\fiesta_sample.vbproj|solutionrelative:fiesta_sample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D413E21-818E-43E3-AD6C-47057CB2BA09}|fiesta_sample\\fiesta_sample.vbproj|c:\\users\\sabotsikuma.persol\\source\\repos\\fiesta_sample\\fiesta_sample\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8D413E21-818E-43E3-AD6C-47057CB2BA09}|fiesta_sample\\fiesta_sample.vbproj|solutionrelative:fiesta_sample\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 119,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\sabotsikuma.PERSOL\\source\\repos\\fiesta_sample\\fiesta_sample\\Form1.vb",
+              "RelativeDocumentMoniker": "fiesta_sample\\Form1.vb",
+              "ToolTip": "C:\\Users\\sabotsikuma.PERSOL\\source\\repos\\fiesta_sample\\fiesta_sample\\Form1.vb",
+              "RelativeToolTip": "fiesta_sample\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T09:24:56.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\sabotsikuma.PERSOL\\source\\repos\\fiesta_sample\\fiesta_sample\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "fiesta_sample\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\sabotsikuma.PERSOL\\source\\repos\\fiesta_sample\\fiesta_sample\\Form1.Designer.vb",
+              "RelativeToolTip": "fiesta_sample\\Form1.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T09:22:37.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.vb",
+              "DocumentMoniker": "C:\\Users\\sabotsikuma.PERSOL\\source\\repos\\fiesta_sample\\fiesta_sample\\Item.vb",
+              "RelativeDocumentMoniker": "fiesta_sample\\Item.vb",
+              "ToolTip": "C:\\Users\\sabotsikuma.PERSOL\\source\\repos\\fiesta_sample\\fiesta_sample\\Item.vb",
+              "RelativeToolTip": "fiesta_sample\\Item.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T09:19:02.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Invoice.vb",
+              "DocumentMoniker": "C:\\Users\\sabotsikuma.PERSOL\\source\\repos\\fiesta_sample\\fiesta_sample\\Invoice.vb",
+              "RelativeDocumentMoniker": "fiesta_sample\\Invoice.vb",
+              "ToolTip": "C:\\Users\\sabotsikuma.PERSOL\\source\\repos\\fiesta_sample\\fiesta_sample\\Invoice.vb",
+              "RelativeToolTip": "fiesta_sample\\Invoice.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T09:18:40.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sabotsikuma.PERSOL\\source\\repos\\fiesta_sample\\fiesta_sample\\Form1.vb",
+              "RelativeDocumentMoniker": "fiesta_sample\\Form1.vb",
+              "ToolTip": "C:\\Users\\sabotsikuma.PERSOL\\source\\repos\\fiesta_sample\\fiesta_sample\\Form1.vb [Design]",
+              "RelativeToolTip": "fiesta_sample\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T08:32:58.85Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

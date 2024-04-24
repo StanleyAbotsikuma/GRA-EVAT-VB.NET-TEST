@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "14CEwGtCal8MhCUfQ+wR9JAVAdIGNrJAN0xh4Lyvbq76VaW5b9pB6R+wFasxeFyU0CDRkmqx3b1ZTi6Wfv2sxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sabotsikuma.PERSOL\\source\\repos\\fiesta_sample\\fiesta_sample\\fiesta_sample.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sabotsikuma.PERSOL\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
